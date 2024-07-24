@@ -1,4 +1,4 @@
-# Autogen Weather Chatbot
+# Autogen Weather Chatbot Example
 
 This project demonstrates the implementation of a simple weather chatbot using the Autogen library. It showcases how to create an AI agent capable of providing weather information through natural language interactions.
 
